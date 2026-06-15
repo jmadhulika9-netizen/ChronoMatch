@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Find Your Match | ChronoMatch</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<!-- =========================
+HEADER
+========================= -->
+
+<header class="site-header">
+
+<div class="container header-container">
+
+<a href="index.html" class="logo">
+ChronoMatch
+</a>
+
+<nav>
+
+<ul class="nav-links">
+
+<li>
+<a href="index.html">
+Home
+</a>
+</li>
+
+<li>
+<a href="match.html" class="active">
+Find Your Match
+</a>
+</li>
+
+<li>
+<a href="collection.html">
+My Collection
+</a>
+</li>
+<li>
+<button id="themeToggle" class="theme-toggle">
+🌙
+</button>
+</li>
+
+</ul>
+
+</nav>
+
+</div>
+
+</header>
+
+<!-- =========================
+INTRO
+========================= -->
+
+<section class="match-intro">
+
+<div class="container">
+
+<p class="section-label">
+FIND YOUR MATCH
+</p>
+
+<h1>
+Discover Your Ideal Timepiece
+</h1>
+
+<p class="intro-text">
+Answer a few questions and receive carefully curated luxury watch recommendations tailored to your style, budget, and preferences.
+</p>
+
+</div>
+
+</section>
+
+<!-- =========================
+FORM + IMAGE
+========================= -->
+
+<section class="match-layout">
+
+<div class="container match-grid">
+
+<div class="match-form-card">
+
+<p class="section-label">
+WATCH PREFERENCES
+</p>
+
+<h2>
+Tell Us What You're Looking For
+</h2>
+
+<form id="watchForm">
+
+<div class="form-group">
+
+<label for="gender">
+Gender
+</label>
+
+<select id="gender">
+
+<option>Men</option>
+<option>Women</option>
+<option>Unisex</option>
+
+</select>
+
+</div>
+
+<div class="form-group">
+
+<label for="budget">
+Budget
+</label>
+
+<select id="budget">
+
+<option>Under $500</option>
+<option>$500 - $1000</option>
+<option>$1000 - $5000</option>
+<option>$5000+</option>
+
+</select>
+
+</div>
+
+<div class="form-group">
+
+<label for="style">
+Watch Style
+</label>
+
+<select id="style">
+
+<option>Dress</option>
+<option>Diver</option>
+<option>Sport</option>
+<option>Luxury</option>
+
+</select>
+
+</div>
+
+<div class="form-group">
+
+<label for="movement">
+Movement
+</label>
+
+<select id="movement">
+
+<option>Automatic</option>
+<option>Quartz</option>
+<option>Mechanical</option>
+
+</select>
+
+</div>
+
+<div class="form-group">
+
+<label for="brand">
+Brand Preference
+</label>
+
+<select id="brand">
+
+<option>No Preference</option>
+
+<option>Rolex</option>
+<option>Omega</option>
+<option>Tudor</option>
+<option>Longines</option>
+<option>Seiko</option>
+<option>Tissot</option>
+<option>TAG Heuer</option>
+<option>Citizen</option>
+
+</select>
+
+</div>
+
+<button type="submit" class="btn-primary">
+
+Find My Match
+
+</button>
+
+</form>
+
+</div>
+
+<div class="match-image">
+
+<img
+src="https://images.unsplash.com/photo-1586923880996-e23d32190d9a?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=francois-hurtaud-0KXTf30OKD8-unsplash.jpg"
+alt="Luxury Watch Lifestyle">
+
+</div>
+
+</div>
+
+</section>
+
+<!-- =========================
+RESULTS
+========================= -->
+
+<section class="results-section">
+
+<div class="container">
+
+<div id="results"></div>
+
+</div>
+
+</section>
+
+<!-- =========================
+FOOTER
+========================= -->
+
+<footer class="site-footer">
+
+<div class="container footer-grid">
+
+<div>
+
+<h3>
+ChronoMatch
+</h3>
+
+<p>
+Helping enthusiasts discover watches that fit their style, budget, and preferences.
+</p>
+
+</div>
+
+<div class="footer-right">
+
+<span>
+Built With AI
+</span>
+
+<span>
+Version 1.0
+</span>
+
+</div>
+
+</div>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

@@ -153,7 +153,7 @@ brand:"Seiko",
 style:"Diver",
 movement:"Automatic",
 price:"$800",
-image:"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=1200&q=80",
+image:"https://images.unsplash.com/photo-1772638904187-1d1e8f1452f3?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=puneet-kaul-P57GPFuXd-Y-unsplash.jpg",
 description:"Reliable tool watch designed for adventure, diving, and exploration."
 },
 

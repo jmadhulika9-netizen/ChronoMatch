@@ -33,7 +33,7 @@ brand:"Rolex",
 style:"Diver",
 movement:"Automatic",
 price:"$12,000",
-image:"https://images.unsplash.com/photo-1522312346375-d1a52e2b99b3?auto=format&fit=crop&w=1200&q=80",
+image:"https://images.unsplash.com/photo-1670404160620-a3a86428560e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=say-s-vRcSC-UN3yI-unsplash.jpg",
 description:"One of the world's most recognized dive watches with exceptional durability."
 },
 

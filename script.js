@@ -23,7 +23,7 @@ brand:"Rolex",
 style:"Dress",
 movement:"Automatic",
 price:"$10,000",
-image:"https://images.unsplash.com/photo-1547996160-81dfa63595aa?auto=format&fit=crop&w=1200&q=80",
+image:"https://images.unsplash.com/photo-1773414685933-bfc3ccf89a3c?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=ph-c-sang-8PzBx71aecg-unsplash.jpg",
 description:"An iconic luxury dress watch known for timeless styling and everyday elegance."
 },
 
@@ -43,7 +43,7 @@ brand:"Rolex",
 style:"Sport",
 movement:"Automatic",
 price:"$8,500",
-image:"https://images.unsplash.com/photo-1523170335258-f5ed11844a49?auto=format&fit=crop&w=1200&q=80",
+image:"https://images.unsplash.com/photo-1587836374828-4dbafa94cf0e?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=carlos-esteves-Ae3OHpJfngc-unsplash.jpg",
 description:"Built for adventure and exploration while maintaining Rolex luxury standards."
 },
 
